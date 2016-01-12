@@ -1,6 +1,6 @@
 var UI = require('ui');
 var ajax = require('ajax');
-var URL = 'https://home.v.icario.us/';
+var URL = '<JSON object URL>';
 
 // Create a Card with title and subtitle
 var card = new UI.Card({
@@ -41,7 +41,7 @@ ajax(
     }
 
     // show to user 
-    card.subtitle("Status: " + status);   
+    card.subtitle("Door: " + status);   
     card.body("Changed: " + timeConverter(data.state.lastchange));
   },
   

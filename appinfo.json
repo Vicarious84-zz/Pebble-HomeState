@@ -3,7 +3,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "Vicaious",
+    "companyName": "Vicarious",
     "longName": "HomeState",
     "projectType": "pebblejs",
     "resources": {
@@ -37,7 +37,7 @@
         "aplite",
         "basalt"
     ],
-    "uuid": "78e50e35-6090-471e-894c-733b4f74e91a",
+    "uuid": "807e2bff-22f6-43d0-afbf-0f9910c6fb1b",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
